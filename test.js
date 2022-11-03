@@ -14,4 +14,4 @@
            setTimeout(() =>  resale.singleEntry.item.addToCart(document.getElementsByClassName('add')[0]), 250)
            setTimeout(() => window.location.reload(false), 300)
         }
-    }, 3000)
+    }, 4000)
